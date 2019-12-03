@@ -1,1 +1,1 @@
-# rfid_IoT
+# RFID based attendance system
