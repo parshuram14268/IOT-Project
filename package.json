@@ -1,0 +1,15 @@
+{
+  "name": "rfid",
+  "version": "1.0.0",
+  "description": "An radio frequency scanner based identification system for attendance purposes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Asutosh",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
